@@ -2,4 +2,5 @@ a = input("Enter a")
 b = input("Enter b")
 
 print("Addition",a+b)
-print("Difference",a-b)
+print("Subtraction",a-b)
+print("Multiplication",a*b)
